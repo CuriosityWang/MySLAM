@@ -26,4 +26,9 @@
 
     - **回环优化：当检测到回环时，执行回环优化算法来修正先前轨迹的误差，以获得一致和精确的轨迹和地图。**
   
+
+
+![image](https://github.com/CuriosityWang/MySLAM/assets/50990182/a999ca76-a59b-499f-9e72-d22b7c9421d1)
+
+ 
   更多内容可以查阅博客:https://www.cnblogs.com/curiositywang/p/17585372.html
