@@ -1,0 +1,21 @@
+# ninja log v5
+1	2384	1687511446756923223	src/CMakeFiles/myslam.dir/frame.cpp.o	ad3944cb7a409c86
+16703	17403	1684998895257585080	/home/xin/Code/slambook2/ch13/bin/test_triangulation	6042239f41468b8b
+28997	31442	1687663696219192361	/home/xin/Code/slambook2/ch13/bin/run_kitti_stereo	595f28965ee16211
+2	1494	1687224924410670545	src/CMakeFiles/myslam.dir/feature.cpp.o	2614d222e4821533
+2	24215	1687663688995160720	src/CMakeFiles/myslam.dir/loop_closure.cpp.o	f0fe0fe3a88e4364
+1	45	1690445384580417718	build.ninja	adfde05e9429017c
+3	4801	1687511449168970455	src/CMakeFiles/myslam.dir/dataset.cpp.o	8c6f93efcd024656
+24215	28997	1687663691483171618	/home/xin/Code/slambook2/ch13/lib/libmyslam.a	547d370c60367a1a
+2	1931	1687224924846679642	src/CMakeFiles/myslam.dir/config.cpp.o	718dd96be77bf0b5
+2	2856	1687224925770698925	src/CMakeFiles/myslam.dir/camera.cpp.o	db7e6b2737582550
+1	2403	1687660732282931626	src/CMakeFiles/myslam.dir/map.cpp.o	2c95e0454fa5a40d
+2	4516	1687511448884964899	src/CMakeFiles/myslam.dir/viewer.cpp.o	5bbb546878d579c3
+2	35341	1687511479685558092	src/CMakeFiles/myslam.dir/backend.cpp.o	bd73feacc5846da8
+1	38569	1687662764411077287	src/CMakeFiles/myslam.dir/frontend.cpp.o	798008c564cc15ef
+2	2573	1687662728454915937	app/CMakeFiles/run_kitti_stereo.dir/run_kitti_stereo.cpp.o	5ae02a078a7b7803
+2	2137	1687224925054683983	src/CMakeFiles/myslam.dir/mappoint.cpp.o	368bb4aec758d5b4
+43344	43485	1684849562224148383	/home/xin/Code/slambook2/ch13/lib/libmyslam.so	3743cabd3c81166d
+2	1388	1687661868210869607	src/CMakeFiles/myslam.dir/keyframeDatabase.cpp.o	206a50e8b137ce9b
+2	2748	1687662728626916709	src/CMakeFiles/myslam.dir/visual_odometry.cpp.o	948fc07ceb29aca9
+2	16703	1684998894541573995	test/CMakeFiles/test_triangulation.dir/test_triangulation.cpp.o	edea307a60ad0967
