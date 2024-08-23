@@ -52,7 +52,7 @@ namespace myslam {
 
         while (loop_closure_running_.load()){
             std::unique_lock<std::mutex> lock(data_mutex_);
-            map_update_.wait(lock);
+            map_update_.wait(lock); // 回环检测线程进入等待状态，并且释放锁
 
             int loop_start_index = DetectLoop();
             LOG(INFO) <<"Loop Detecting";
